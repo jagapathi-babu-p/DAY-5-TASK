@@ -1,0 +1,64 @@
+{
+    "basics": {
+      "name": "JAGAPATHI BABU",
+      "label": "",
+      "picture": "",
+      "email": "jagapathibabu100@gmail.com",
+      "phone": "9080103886.",
+      "degree": "Bsc- computer science",
+      "summary": "A Full Stack Developer with Entry-Level Experince in Web Development, passionate about creating responsive, user-friendly                                                                            websites that drive digital success..",
+      "location": {
+        "address": "No :30/5 Ponniamman Koil Street,Kalaivanar Nagar Main road,padi",
+        "postalCode": "600050",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+      },
+      "profiles": [
+        {
+          "network": "A social media or other profile that you would like to include (e.g. LinkedIn, Twitter)",
+          "username": "Your username on this network",
+          "url": "A URL to your user profile page"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "mind drama productions",
+        "position": "operations coordinator",
+        ]
+      }
+    ],
+   
+    "education": [
+      {
+        "institution": "Your school name",
+        "area": "Your area of study or degree earned",
+        "studyType": "",
+        "startDate": "Your start date, in YYYY-MM-DD format",
+        "endDate": "Your completion date, in YYYY-MM-DD format",
+        "gpa": "",
+        "courses": [
+          ""
+        ]
+      }
+    ],
+  
+    "skills": [
+      {
+        "name": "Responsive webdesign",
+        "level": "",
+        "keywords": ['HTML', 'CSS', javascript"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Read and Write"
+      }
+    ],
+    "interests": [
+      {
+        "name": "web development",
+      }
+    ]
+}
